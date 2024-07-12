@@ -15,14 +15,13 @@ Customer Insights: Gain insights into customer behavior and purchasing patterns.
 Repeat customers made up 35% of total purchases.
 Average order value increased to ₹1200.
 Interactive Visualizations: Utilize various Power BI visualizations such as bar charts, line graphs, and maps for a rich analytical experience.
-🔧 Tools and Technologies Used:
 
+🔧 Tools and Technologies Used:
 Power BI for data visualization and dashboard creation
 Excel for data preprocessing
-SQL for data extraction and manipulation
-Python for advanced data analysis and machine learning
-💡 Learning Outcomes:
 
+
+💡 Learning Outcomes:
 Enhanced my data visualization skills using Power BI
 Improved ability to transform raw data into actionable insights
 Gained a deeper understanding of sales data analysis and reporting
